@@ -1,0 +1,14 @@
+{
+  "name": "node-rest-shop",
+  "version": "1.0.0",
+  "description": "Node.js Resful API basics project",
+  "main": "index.js",
+  "author": "sak",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
